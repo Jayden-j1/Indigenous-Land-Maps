@@ -257,10 +257,6 @@ export default function ProtectedAreasPage() {
             value={searchTerm}
             onChange={(event) => setSearchTerm(event.target.value)}
           />
-          <p className="mt-1 text-xs text-slate-400">
-            Start by typing part of an IPA name or selecting a state/territory
-            to see matching Indigenous Protected Areas.
-          </p>
         </div>
 
         {/* Filter by state */}
