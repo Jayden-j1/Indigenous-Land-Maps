@@ -14,7 +14,7 @@ import type { IpaFeatureCollection } from "../../../api/protectedAreas";
 // Human-readable labels for AUTHORITY codes
 const AUTHORITY_LABELS: Record<string, string> = {
   IMG: "Indigenous Management Group",
-  LILC: "Local Indigenous Land Council",
+  LALC: "Local Aboriginal Land Council",
   TSRA: "Torres Strait Regional Authority",
   // Add more as needed as you discover other codes
 };
