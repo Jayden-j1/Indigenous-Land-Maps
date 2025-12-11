@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/Indigenous-Land-Maps/",
+  base: "/indigenous-land-maps/",
   plugins: [
     react(),
     tailwindcss(),
